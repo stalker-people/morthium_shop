@@ -1,2 +1,2 @@
-# phpshop
-PHP Shop - Easier CMS for internet shop.
+# Morthium Shop
+В данный момент вы сейчас рассматриваете исходный код простой CMS для создания магазина Morthium Shop
